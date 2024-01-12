@@ -1,0 +1,6 @@
+@article{REPO250,
+    author = "Lan, Zhenzhong and Chen, Mingda and Goodman, Sebastian and Gimpel, Kevin and Sharma, Piyush and Soricut, Radu",
+    journal = "arXiv preprint arXiv:1909.11942",
+    title = "{Albert: A Lite Bert for Self-Supervised Learning of Language Representations}",
+    year = "2019"
+}
